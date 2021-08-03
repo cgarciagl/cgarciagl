@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/backend-developer.gif">
+  <img align="right" alt="Coding" width="400" src="http://www.pixelgrafia.com/images/websites/website03.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
