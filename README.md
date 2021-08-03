@@ -2,7 +2,7 @@
   <img align="right" alt="Coding" width="400" src="https://creamosideasweb.com/wp-content/uploads/2017/11/responsive-web-designs-1.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **SvelteKit**
 - 💬 Ask me about : Delphi, Javascript 👨‍💻
 - 📫 How to reach me: @cgarciagl
 - ⚡ Fun fact: **Star Wars Fan** 🖖
