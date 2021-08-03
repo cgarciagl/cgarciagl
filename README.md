@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://cdn.webservertalk.com/wp-content/uploads/network-monitoring-software.gif">
+  <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
