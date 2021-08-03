@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/10708894-eb61-4abd-abf0-14399f366fac/c074b912-53ee-4c46-b2b6-6cb9312ba9ac_rw_1200.gif?h=5c45b3edfa505b7b5a8f30b73d6b4122">
+  <img align="right" alt="Coding" width="400" src="https://3.bp.blogspot.com/-9JLen5R_Y-I/XEvNrYTE1II/AAAAAAAAA5I/lNgUegqoo_QgYBETKbeQQOPUPN-TIf9GQCLcBGAs/s400/Interessante%2Blinks.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
