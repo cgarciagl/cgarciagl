@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://3.bp.blogspot.com/-9JLen5R_Y-I/XEvNrYTE1II/AAAAAAAAA5I/lNgUegqoo_QgYBETKbeQQOPUPN-TIf9GQCLcBGAs/s400/Interessante%2Blinks.gif">
+  <img align="right" alt="Coding" width="400" src="https://datamaven.ai/wp-content/uploads/2018/07/ezgif.com-crop.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
