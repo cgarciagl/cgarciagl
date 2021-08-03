@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://nandankumar.in/wp-content/uploads/2020/09/website-development-company-in-agra.gif">
+  <img align="right" alt="Coding" width="400" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/backend-developer.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
