@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://creamosideasweb.com/wp-content/uploads/2017/11/responsive-web-designs-1.gif">
+  <img align="right" alt="Coding" width="400" src="http://cp-coding.com/assets/images/gif.gif">
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
