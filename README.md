@@ -8,10 +8,10 @@
 - ⚡ Fun fact: **Star Wars Fan** 🖖
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciagl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciagl&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarciagl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarciagl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cgarciagl&theme=blood)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cgarciagl&theme=blood&count_private=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=cgarciagl)
