@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Phd** 🎓
 - 🌱 I’m currently learning **Machine Learning with TensorFlowJs**
-- 💬 Ask me about : Delphi, Javascript 👨‍💻
+- 💬 Ask me about : Javascript, Delphi, Php 👨‍💻
 - 📫 How to reach me: @cgarciagl
 - ⚡ Fun fact: **Star Wars Fan** 🖖
 
