@@ -23,21 +23,6 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cgarciagl&theme=blood&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cgarciagl&show_icons=true&theme=blood" alt="Estadísticas de cgarciagl" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciagl&layout=compact&theme=blood" alt="Lenguajes más usados de cgarciagl" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=cgarciagl&theme=blood" alt="GitHub Streak" />
   </a>
