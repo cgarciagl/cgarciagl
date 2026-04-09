@@ -20,6 +20,13 @@
 
 ---
 
+### 📚 Libros
+
+[![English Version](https://img.shields.io/badge/🇬🇧_Get_the_Book-Ragnos_From_Zero_to_Pro-blue?style=for-the-badge&logo=leanpub)](https://leanpub.com/ragnosfromzerotopro)
+[![Versión en Español](https://img.shields.io/badge/🇪🇸_Lee_el_Libro-Ragnos_de_Cero_a_Pro-green?style=for-the-badge&logo=leanpub)](https://leanpub.com/ragnosdeceroapro)
+
+--
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
