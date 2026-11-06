@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://ragnos.build"><img src="https://img.shields.io/badge/ragnos.build-Sitio_oficial-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cgarciagl"><img src="https://img.shields.io/badge/LinkedIn-cgarciagl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carlos-garc%C3%ADa-trujillo-68a4a425"><img src="https://img.shields.io/badge/LinkedIn-Carlos_García_Trujillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/cgarciagl"><img src="https://img.shields.io/badge/X-@cgarciagl-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://leanpub.com/u/cgarciagl"><img src="https://img.shields.io/badge/Leanpub-Autor-222?style=for-the-badge&logo=leanpub&logoColor=white" /></a>
 </p>
