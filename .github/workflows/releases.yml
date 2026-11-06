@@ -1,0 +1,55 @@
+name: Update latest releases
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build releases table
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          {
+            echo "| Proyecto | Versión | Fecha | |"
+            echo "|---|---|---|---|"
+            for repo in Ragnos PyroStudio; do
+              # Últimos 2 releases; si no hay releases, usa el tag más reciente
+              rows=$(gh api "repos/cgarciagl/$repo/releases?per_page=2" \
+                -q '.[] | select(.draft|not) | "| **'"$repo"'** | `\(.tag_name)` | \(.published_at[0:10]) | [Ver notas](\(.html_url)) |"' || true)
+              if [ -z "$rows" ]; then
+                tag=$(gh api "repos/cgarciagl/$repo/tags?per_page=1" -q '.[0].name' || true)
+                if [ -n "$tag" ]; then
+                  rows="| **$repo** | \`$tag\` | — | [Ver tag](https://github.com/cgarciagl/$repo/releases/tag/$tag) |"
+                else
+                  rows="| **$repo** | _próximamente_ | — | [Repo](https://github.com/cgarciagl/$repo) |"
+                fi
+              fi
+              echo "$rows"
+            done
+          } > releases.md
+
+          awk '
+            /<!-- RELEASES:START -->/ { print; while ((getline line < "releases.md") > 0) print line; skip=1; next }
+            /<!-- RELEASES:END -->/   { skip=0 }
+            !skip
+          ' README.md > README.tmp && mv README.tmp README.md
+          rm releases.md
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: actualizar últimas versiones"
+            git push
+          fi
