@@ -43,8 +43,9 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 <!-- RELEASES:START -->
 | Proyecto | Versión | Fecha | |
 |---|---|---|---|
-| **Ragnos** | _cargando…_ | — | [Repo](https://github.com/cgarciagl/Ragnos) |
-| **PyroStudio** | _cargando…_ | — | [Repo](https://github.com/cgarciagl/PyroStudio) |
+| **Ragnos** | `v1.0.2` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.2) |
+| **Ragnos** | `v1.0.1` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.1) |
+| **PyroStudio** | _próximamente_ | — | [Repo](https://github.com/cgarciagl/PyroStudio) |
 <!-- RELEASES:END -->
 
 <sub>🤖 Se actualiza automáticamente cada 6 horas con GitHub Actions.</sub>
