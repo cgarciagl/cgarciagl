@@ -8,9 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://leanpub.com/ragnosdeceroapro"><img src="https://img.shields.io/badge/Leanpub-Autor-222?style=flat-square&logo=leanpub&logoColor=white" /></a>
-  <a href="https://github.com/cgarciagl?tab=repositories"><img src="https://img.shields.io/badge/Universidad_Veracruzana-Ingeniero_de_Software-dc2626?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/M.Sc.-Ingenier%C3%ADa_de_Software-0f172a?style=flat-square" />
+  <a href="https://ragnos.build"><img src="https://img.shields.io/badge/ragnos.build-Sitio_oficial-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cgarciagl"><img src="https://img.shields.io/badge/LinkedIn-cgarciagl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/cgarciagl"><img src="https://img.shields.io/badge/X-@cgarciagl-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://leanpub.com/u/cgarciagl"><img src="https://img.shields.io/badge/Leanpub-Autor-222?style=for-the-badge&logo=leanpub&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,6 +23,7 @@ $ cat enfoque.txt
 Sistemas de administración escolar · innovación en educación superior
 $ ls ./creaciones
 ragnos/   pyrostudio/   ragnos-de-cero-a-pro.pdf
+$ open https://ragnos.build
 $ echo $STACK
 PHP  SQL  JavaScript  MariaDB/MySQL
 ```
@@ -35,7 +37,7 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 
 | | |
 |---|---|
-| **Ragnos** | Framework PHP para construir aplicaciones de negocio con mucho menos código. |
+| **Ragnos** | Framework PHP para construir aplicaciones de negocio con mucho menos código. 🌐 [ragnos.build](https://ragnos.build) |
 | **PyroStudio** | Cliente de escritorio para MariaDB/MySQL, ligero y directo. |
 
 ### 📦 Últimas versiones
@@ -81,7 +83,7 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 
 Software engineer at Universidad Veracruzana (Mexico), M.Sc. in Software Engineering.
 I build **Ragnos**, a PHP framework for business apps, and **PyroStudio**, a MariaDB/MySQL desktop client.
-Author of *Ragnos From Zero to Pro* on Leanpub.
+Author of *Ragnos From Zero to Pro* on Leanpub. Website: [ragnos.build](https://ragnos.build)
 </details>
 
 <p align="center">
