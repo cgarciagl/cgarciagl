@@ -29,8 +29,8 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 ### 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/cgarciagl/Ragnos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgarciagl&repo=Ragnos&theme=github_dark&border_color=7f1d1d&title_color=dc2626&icon_color=dc2626" /></a>
-  <a href="https://github.com/cgarciagl/PyroStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgarciagl&repo=PyroStudio&theme=github_dark&border_color=7f1d1d&title_color=dc2626&icon_color=dc2626" /></a>
+  <a href="https://github.com/cgarciagl/Ragnos"><img src="./assets/card-Ragnos.svg" width="400" alt="Ragnos" /></a>
+  <a href="https://github.com/cgarciagl/PyroStudio"><img src="./assets/card-PyroStudio.svg" width="400" alt="PyroStudio" /></a>
 </p>
 
 | | |
@@ -47,8 +47,6 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 | **Ragnos** | `v1.0.1` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.1) |
 | **PyroStudio** | _próximamente_ | — | [Repo](https://github.com/cgarciagl/PyroStudio) |
 <!-- RELEASES:END -->
-
-<sub>🤖 Se actualiza automáticamente cada 6 horas con GitHub Actions.</sub>
 
 ### 📚 Mi libro
 
