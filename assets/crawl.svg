@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="1"/>
+      <stop offset="0.35" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="600" height="260"/></clipPath>
+  </defs>
+  <rect width="600" height="260" fill="#05060a"/>
+  <g fill="#fff" opacity="0.7">
+    <circle cx="40" cy="30" r="1"/><circle cx="120" cy="80" r="0.8"/><circle cx="530" cy="40" r="1.2"/>
+    <circle cx="470" cy="200" r="0.8"/><circle cx="80" cy="210" r="1"/><circle cx="300" cy="20" r="0.7"/>
+    <circle cx="570" cy="140" r="0.9"/><circle cx="20" cy="120" r="0.8"/>
+  </g>
+  <g clip-path="url(#c)">
+    <g transform="translate(300 260) scale(1 0.55)">
+      <g font-family="Georgia, serif" fill="#e3b341" text-anchor="middle" font-size="20">
+        <animateTransform attributeName="transform" type="translate" from="0 120" to="0 -520" dur="22s" repeatCount="indefinite"/>
+        <text y="0" font-size="26" font-weight="bold">EPISODIO XII</text>
+        <text y="36" font-size="30" font-weight="bold">EL CÓDIGO LIMPIO</text>
+        <text y="90">Es un periodo de deuda técnica.</text>
+        <text y="118">Un ingeniero rebelde, armado con</text>
+        <text y="146">PHP, SQL y JavaScript, ha creado</text>
+        <text y="174">RAGNOS, un framework capaz de</text>
+        <text y="202">construir sistemas completos con</text>
+        <text y="230">una fracción del código.</text>
+        <text y="286">Perseguido por los requerimientos</text>
+        <text y="314">de última hora, escribe un libro</text>
+        <text y="342">para compartir el conocimiento</text>
+        <text y="370">con toda la galaxia...</text>
+      </g>
+    </g>
+  </g>
+  <rect width="600" height="260" fill="url(#fade)"/>
+</svg>

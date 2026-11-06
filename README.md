@@ -1,42 +1,79 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7f1d1d,100:dc2626&height=200&section=header&text=Carlos%20Garc%C3%ADa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Creador%20de%20Ragnos%20%C2%B7%20Autor&descAlignY=60&descSize=18" alt="Carlos García" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/474536/129652793-b0173265-c07c-4579-8e28-3279398ded51.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=600&lines=PHP+%C2%B7+SQL+%C2%B7+JavaScript;Construyo+frameworks+para+construir+m%C3%A1s+r%C3%A1pido;Escribo+libros+sobre+lo+que+construyo" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Machine Learning with Python**
-- 💬 Ask me about: **Javascript, Delphi, Php**
-- 📫 How to reach me: **@cgarciagl**
-- ⚡ Fun fact: **Star Wars Fan** 🖖
-
----
-
-### 🛠 Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Delphi-%23D24848.svg?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<p align="center">
+  <a href="https://leanpub.com/ragnosdeceroapro"><img src="https://img.shields.io/badge/Leanpub-Autor-222?style=flat-square&logo=leanpub&logoColor=white" /></a>
+  <a href="https://github.com/cgarciagl?tab=repositories"><img src="https://img.shields.io/badge/Universidad_Veracruzana-Ingeniero_de_Software-dc2626?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/M.Sc.-Ingenier%C3%ADa_de_Software-0f172a?style=flat-square" />
 </p>
 
 ---
 
-### 📚 Libros
+```bash
+$ whoami
+carlos — ingeniero de software y técnico académico @ Universidad Veracruzana 🇲🇽
+$ cat enfoque.txt
+Sistemas de administración escolar · innovación en educación superior
+$ ls ./creaciones
+ragnos/   pyrostudio/   ragnos-de-cero-a-pro.pdf
+$ echo $STACK
+PHP  SQL  JavaScript  MariaDB/MySQL
+```
 
-[![English Version](https://img.shields.io/badge/🇬🇧_Get_the_Book-Ragnos_From_Zero_to_Pro-blue?style=for-the-badge&logo=leanpub)](https://leanpub.com/ragnosfromzerotopro)
-[![Versión en Español](https://img.shields.io/badge/🇪🇸_Lee_el_Libro-Ragnos_de_Cero_a_Pro-green?style=for-the-badge&logo=leanpub)](https://leanpub.com/ragnosdeceroapro)
-
---
-
-### 📊 Estadísticas de GitHub
+### 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=cgarciagl&theme=blood" alt="GitHub Streak" />
-  </a>
+  <a href="https://github.com/cgarciagl/Ragnos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgarciagl&repo=Ragnos&theme=github_dark&border_color=7f1d1d&title_color=dc2626&icon_color=dc2626" /></a>
+  <a href="https://github.com/cgarciagl/PyroStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cgarciagl&repo=PyroStudio&theme=github_dark&border_color=7f1d1d&title_color=dc2626&icon_color=dc2626" /></a>
 </p>
 
----
+| | |
+|---|---|
+| **Ragnos** | Framework PHP para construir aplicaciones de negocio con mucho menos código. |
+| **PyroStudio** | Cliente de escritorio para MariaDB/MySQL, ligero y directo. |
+
+### 📚 Mi libro
+
+> **Ragnos de Cero a Pro** — la guía completa del framework, del primer CRUD a producción.
+
+<p>
+  <a href="https://leanpub.com/ragnosdeceroapro"><img src="https://img.shields.io/badge/🇲🇽_Leer_en_español-Ragnos_de_Cero_a_Pro-dc2626?style=for-the-badge&logo=leanpub&logoColor=white" /></a>
+  <a href="https://leanpub.com/ragnosfromzerotopro"><img src="https://img.shields.io/badge/🇬🇧_Read_in_English-Ragnos_From_Zero_to_Pro-0f172a?style=for-the-badge&logo=leanpub&logoColor=white" /></a>
+</p>
+
+### 🛠 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,codeigniter,git,linux,vscode&theme=dark" />
+</p>
+
+### 🌌 Hace mucho tiempo, en un repositorio muy, muy lejano...
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cgarciagl&color=red" alt="Visitas" />
+  <img src="./assets/crawl.svg" width="600" alt="Crawl" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgarciagl/cgarciagl/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/cgarciagl/cgarciagl/output/snake.svg" alt="Serpiente de contribuciones" />
+  </picture>
+</p>
+
+<details>
+<summary>🇬🇧 <b>English</b></summary>
+
+Software engineer at Universidad Veracruzana (Mexico), M.Sc. in Software Engineering.
+I build **Ragnos**, a PHP framework for business apps, and **PyroStudio**, a MariaDB/MySQL desktop client.
+Author of *Ragnos From Zero to Pro* on Leanpub.
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:0f172a&height=100&section=footer" />
 </p>
