@@ -29,9 +29,9 @@ jobs:
             echo "| Proyecto | Versión | Fecha | |"
             echo "|---|---|---|---|"
             for repo in Ragnos PyroStudio escriba; do
-              # Últimos 2 releases; si no hay releases, usa el tag más reciente
-              rows=$(gh api "repos/cgarciagl/$repo/releases?per_page=2" \
-                -q '.[] | select(.draft|not) | "| **'"$repo"'** | `\(.tag_name)` | \(.published_at[0:10]) | [Ver notas](\(.html_url)) |"' || true)
+              # Último release publicado; si no hay releases, usa el tag más reciente
+              rows=$(gh api "repos/cgarciagl/$repo/releases?per_page=10" \
+                -q '[.[] | select(.draft|not)] | .[0] | select(.) | "| **'"$repo"'** | `\(.tag_name)` | \(.published_at[0:10]) | [Ver notas](\(.html_url)) |"' || true)
               if [ -z "$rows" ]; then
                 tag=$(gh api "repos/cgarciagl/$repo/tags?per_page=1" -q '.[0].name' || true)
                 if [ -n "$tag" ]; then
