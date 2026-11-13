@@ -18,7 +18,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          for r in Ragnos PyroStudio; do bash scripts/card.sh "$r"; done
+          for r in Ragnos PyroStudio escriba; do bash scripts/card.sh "$r"; done
 
       - name: Build releases table
         env:
@@ -28,7 +28,7 @@ jobs:
           {
             echo "| Proyecto | Versión | Fecha | |"
             echo "|---|---|---|---|"
-            for repo in Ragnos PyroStudio; do
+            for repo in Ragnos PyroStudio escriba; do
               # Últimos 2 releases; si no hay releases, usa el tag más reciente
               rows=$(gh api "repos/cgarciagl/$repo/releases?per_page=2" \
                 -q '.[] | select(.draft|not) | "| **'"$repo"'** | `\(.tag_name)` | \(.published_at[0:10]) | [Ver notas](\(.html_url)) |"' || true)
