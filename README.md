@@ -22,7 +22,7 @@ carlos — ingeniero de software y técnico académico @ Universidad Veracruzana
 $ cat enfoque.txt
 Sistemas de administración escolar · innovación en educación superior
 $ ls ./creaciones
-ragnos/   pyrostudio/   ragnos-de-cero-a-pro.pdf
+ragnos/   pyrostudio/   escriba/   ragnos-de-cero-a-pro.pdf
 $ open https://ragnos.build
 $ echo $STACK
 PHP  SQL  JavaScript  MariaDB/MySQL
@@ -33,12 +33,14 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 <p align="center">
   <a href="https://github.com/cgarciagl/Ragnos"><img src="./assets/card-Ragnos.svg" width="400" alt="Ragnos" /></a>
   <a href="https://github.com/cgarciagl/PyroStudio"><img src="./assets/card-PyroStudio.svg" width="400" alt="PyroStudio" /></a>
+  <a href="https://github.com/cgarciagl/escriba"><img src="./assets/card-escriba.svg" width="400" alt="Escriba" /></a>
 </p>
 
 | | |
 |---|---|
 | **Ragnos** | Framework PHP para construir aplicaciones de negocio con mucho menos código. 🌐 [ragnos.build](https://ragnos.build) |
 | **PyroStudio** | Cliente de escritorio para MariaDB/MySQL, ligero y directo. |
+| **Escriba** | Asistente de texto con IA para Windows y macOS, integrado en tu flujo de escritura. |
 
 ### 📦 Últimas versiones
 
@@ -48,6 +50,7 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 | **Ragnos** | `v1.0.2` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.2) |
 | **Ragnos** | `v1.0.1` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.1) |
 | **PyroStudio** | _próximamente_ | — | [Repo](https://github.com/cgarciagl/PyroStudio) |
+| **escriba** | `v0.0.5` | 2026-11-13 | [Ver notas](https://github.com/cgarciagl/escriba/releases/tag/v0.0.5) |
 <!-- RELEASES:END -->
 
 ### 📚 Mi libro
@@ -82,7 +85,7 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 <summary>🇬🇧 <b>English</b></summary>
 
 Software engineer at Universidad Veracruzana (Mexico), M.Sc. in Software Engineering.
-I build **Ragnos**, a PHP framework for business apps, and **PyroStudio**, a MariaDB/MySQL desktop client.
+I build **Ragnos**, a PHP framework for business apps, **PyroStudio**, a MariaDB/MySQL desktop client, and **Escriba**, an AI writing assistant for Windows and macOS.
 Author of *Ragnos From Zero to Pro* on Leanpub. Website: [ragnos.build](https://ragnos.build)
 </details>
 
