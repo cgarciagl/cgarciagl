@@ -2,8 +2,8 @@
   <rect x="0.5" y="0.5" width="399" height="129" rx="8" fill="#0d1117" stroke="#7f1d1d"/>
   <g font-family="Segoe UI, Ubuntu, sans-serif">
     <text x="20" y="35" font-size="18" font-weight="600" fill="#dc2626">📦 escriba</text>
-    <text x="20" y="62" font-size="13" fill="#c9d1d9">Escriba</text>
-    <text x="20" y="80" font-size="13" fill="#c9d1d9"></text>
+    <text x="20" y="62" font-size="13" fill="#c9d1d9">Escriba :- Asistente de texto con IA para Windows y mac</text>
+    <text x="20" y="80" font-size="13" fill="#c9d1d9">OS, integrado en tu flujo de escritura.</text>
     <circle cx="26" cy="106" r="6" fill="#dc2626"/>
     <text x="38" y="111" font-size="13" fill="#8b949e">Python</text>
     <text x="170" y="111" font-size="13" fill="#8b949e">★ 0</text>
