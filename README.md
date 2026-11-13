@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7f1d1d,100:dc2626&height=200&section=header&text=Carlos%20Garc%C3%ADa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Creador%20de%20Ragnos%20%C2%B7%20Autor&descAlignY=60&descSize=18" alt="Carlos García" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7f1d1d,100:dc2626&height=200&section=header&text=Carlos%20Garc%C3%ADa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20M.Sc.%20%C2%B7%20Creador%20de%20Ragnos&descAlignY=60&descSize=18" alt="Carlos García" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=600&lines=PHP+%C2%B7+SQL+%C2%B7+JavaScript;Construyo+frameworks+para+construir+m%C3%A1s+r%C3%A1pido;Escribo+libros+sobre+lo+que+construyo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=640&lines=PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+JavaScript;Arquitectura+de+software+y+sistemas+empresariales;Herramientas+para+desarrollo+y+productividad" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ $ ls ./creaciones
 ragnos/   pyrostudio/   escriba/   ragnos-de-cero-a-pro.pdf
 $ open https://ragnos.build
 $ echo $STACK
-PHP  SQL  JavaScript  MariaDB/MySQL
+PHP  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
 ```
 
 ### 🚀 Proyectos destacados
@@ -38,8 +38,8 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 
 | | |
 |---|---|
-| **Ragnos** | Framework PHP para construir aplicaciones de negocio con mucho menos código. 🌐 [ragnos.build](https://ragnos.build) |
-| **PyroStudio** | Cliente de escritorio para MariaDB/MySQL, ligero y directo. |
+| **Ragnos** | Framework PHP orientado al desarrollo ágil de aplicaciones empresariales. 🌐 [ragnos.build](https://ragnos.build) |
+| **PyroStudio** | Cliente de escritorio ligero y moderno para MariaDB y MySQL. |
 | **Escriba** | Asistente de texto con IA para Windows y macOS, integrado en tu flujo de escritura. |
 
 ### 📦 Últimas versiones
@@ -52,9 +52,9 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 | **escriba** | `v0.0.5` | 2026-11-13 | [Ver notas](https://github.com/cgarciagl/escriba/releases/tag/v0.0.5) |
 <!-- RELEASES:END -->
 
-### 📚 Mi libro
+### 📚 Publicación técnica
 
-> **Ragnos de Cero a Pro** — la guía completa del framework, del primer CRUD a producción.
+> **Ragnos de Cero a Pro** — guía completa del framework, desde el primer CRUD hasta despliegue en producción.
 
 <p>
   <a href="https://leanpub.com/ragnosdeceroapro"><img src="https://img.shields.io/badge/🇲🇽_Leer_en_español-Ragnos_de_Cero_a_Pro-dc2626?style=for-the-badge&logo=leanpub&logoColor=white" /></a>
@@ -64,14 +64,10 @@ PHP  SQL  JavaScript  MariaDB/MySQL
 ### 🛠 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,codeigniter,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,ts,mysql,js,html,css,codeigniter,git,linux,vscode&theme=dark" />
 </p>
 
-### 🌌 Hace mucho tiempo, en un repositorio muy, muy lejano...
-
-<p align="center">
-  <img src="./assets/crawl.svg" width="600" alt="Crawl" />
-</p>
+### 📊 Actividad de contribuciones
 
 <p align="center">
   <picture>
