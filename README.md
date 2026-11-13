@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=640&lines=PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+JavaScript;Arquitectura+de+software+y+sistemas+empresariales;Herramientas+para+desarrollo+y+productividad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=680&lines=PHP+%C2%B7+Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+JavaScript;Arquitectura+de+software+y+sistemas+empresariales;Herramientas+para+desarrollo+y+productividad" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ $ ls ./creaciones
 ragnos/   pyrostudio/   escriba/   ragnos-de-cero-a-pro.pdf
 $ open https://ragnos.build
 $ echo $STACK
-PHP  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
+PHP  Rust  Tauri  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
 ```
 
 ### 🚀 Proyectos destacados
@@ -39,7 +39,7 @@ PHP  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
 | | |
 |---|---|
 | **Ragnos** | Framework PHP orientado al desarrollo ágil de aplicaciones empresariales. 🌐 [ragnos.build](https://ragnos.build) |
-| **PyroStudio** | Cliente de escritorio ligero y moderno para MariaDB y MySQL. |
+| **PyroStudio** | Cliente de escritorio ligero y moderno para MariaDB y MySQL, construido con Tauri y Rust. |
 | **Escriba** | Asistente de texto con IA para Windows y macOS, integrado en tu flujo de escritura. |
 
 ### 📦 Últimas versiones
@@ -64,7 +64,7 @@ PHP  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
 ### 🛠 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,ts,mysql,js,html,css,codeigniter,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,rust,tauri,python,ts,mysql,js,html,css,codeigniter,git,linux,vscode&theme=dark" />
 </p>
 
 ### 📊 Actividad de contribuciones
