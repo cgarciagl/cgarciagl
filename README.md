@@ -49,7 +49,7 @@ PHP  Rust  Tauri  Python  TypeScript  SQL  JavaScript  MariaDB/MySQL
 |---|---|---|---|
 | **Ragnos** | `v1.0.2` | 2026-11-04 | [Ver notas](https://github.com/cgarciagl/Ragnos/releases/tag/v1.0.2) |
 | **PyroStudio** | `v1.0.0` | 2026-11-13 | [Ver notas](https://github.com/cgarciagl/PyroStudio/releases/tag/v1.0.0) |
-| **escriba** | `v0.0.5` | 2026-11-13 | [Ver notas](https://github.com/cgarciagl/escriba/releases/tag/v0.0.5) |
+| **escriba** | `v1.0.0` | 2026-11-14 | [Ver notas](https://github.com/cgarciagl/escriba/releases/tag/v1.0.0) |
 <!-- RELEASES:END -->
 
 ### 📚 Publicación técnica
